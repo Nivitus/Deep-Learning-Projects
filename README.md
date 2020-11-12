@@ -1,2 +1,8 @@
-# Deep-Learning-Projects
-In this repository has various kinds of Deep Learning and related projects on this topics 
+# cat-dog-flask
+cat dog neural network implemented into website using flask
+
+to run:
+just clone or download 
+open directory in cmd
+and type 'app.py'
+enjoy
