@@ -35,27 +35,25 @@ Here I have listed all the projects that I have done and strats from latest proj
 
 | Project No |          Project Name           |  Start Date  |   End Date  |           GitHub          |         Blog          | App Link |
 |:-----------|:--------------------------------|:------------:|:-----------:|--------------------------:|----------------------:|---------:|
-| 1.         | Cat or Dog Classification in CNN | 10-Oct-2020  | 15-Oct-2020 |[Cat or Dog](https://github.com/Nivitus/Deep-Learning-Projects/tree/master/Cat%20or%20Dog)|-|-|
-| 1.         | Cat or Dog Classification in CNN | 10-Oct-2020  | 15-Oct-2020 |[Cat or Dog](https://github.com/Nivitus/Deep-Learning-Projects/tree/master/Cat%20or%20Dog)|-|-|
-| 1.         | Cat or Dog Classification in CNN | 10-Oct-2020  | 15-Oct-2020 |[Cat or Dog](https://github.com/Nivitus/Deep-Learning-Projects/tree/master/Cat%20or%20Dog)|-|-|
-| 1.         | Cat or Dog Classification in CNN | 10-Oct-2020  | 15-Oct-2020 |[Cat or Dog](https://github.com/Nivitus/Deep-Learning-Projects/tree/master/Cat%20or%20Dog)|-|-|
-| 1.         | Cat or Dog Classification in CNN | 10-Oct-2020  | 15-Oct-2020 |[Cat or Dog](https://github.com/Nivitus/Deep-Learning-Projects/tree/master/Cat%20or%20Dog)|-|-|
-| 1.         | Cat or Dog Classification in CNN | 10-Oct-2020  | 15-Oct-2020 |[Cat or Dog](https://github.com/Nivitus/Deep-Learning-Projects/tree/master/Cat%20or%20Dog)|-|-|
-| 1.         | Cat or Dog Classification in CNN | 10-Oct-2020  | 15-Oct-2020 |[Cat or Dog](https://github.com/Nivitus/Deep-Learning-Projects/tree/master/Cat%20or%20Dog)|-|-|
+| 1.         | Cat or Dog Classification using CNN | 10-Oct-2020  | 15-Oct-2020 |[Cat or Dog](https://github.com/Nivitus/Car-Brand-Classification)|-|-|
+| 2.         | Car Brand Detection using CNN | 16-Oct-2020  | 19-Oct-2020 |[Car Brand Classification](https://github.com/Nivitus/Cat-or-Dog-Classification)|-|-|
+| 3.         | Cotton Leaf Diseases Detection CNN | 20-Oct-2020  | 25-Oct-2020 |[Cotton Leaf Diseases](https://github.com/Nivitus/Cotton-Disease-Detection)|-|-|
+| 4.         | Customer Churn Analysis using ANN | 23-Oct-2020  | 25-Oct-2020 |[Customer Churn Analysis](https://github.com/Nivitus/Deep-Learning-Projects/tree/master/Customer%20Churn%20using%20ANN)|-|-|
+| 5.         | Fake News Classifier using LSTM RNN | 25-Oct-2020  | 28-Oct-2020 |[Fake News Classifier LSTM](https://github.com/Nivitus/Deep-Learning-Projects/tree/master/Fake%20News%20Classifier%20using%20LSTM%20RNN)|-|-|
+| 6.         | MNIST Fashion Detection using CNN | 26-Oct-2020  | 30-Oct-2020 |[Fashion MNIST](https://github.com/Nivitus/Deep-Learning-Projects/tree/master/MNIST%20Fashion)|-|-|
+| 7.         | Malaria Diseases Detection in CNN | 1-Nov-2020  | 5-Nov-2020 |[Malaria Detection](https://github.com/Nivitus/Deep-Learning-Projects/tree/master/Malaria%20Detection%20using%20CNN)|-|-|
+| 8.         | Real world Object Detection ImageNet | 3-Nov-2020  | 5-Nov-2020 |[Object Detection](https://github.com/Nivitus/Deep-Learning-Projects/tree/master/Object%20Detection)|-|-|
+| 9.         | Stock Market Prediction LSTM - RNN | 5-Nov-2020  | 7-Nov-2020 |[Stock Market Prediction LSTM RNN](https://github.com/Nivitus/Deep-Learning-Projects/tree/master/Stock%20Price%20Prediction%20using%20Bidirectional%20LSTM%20RNN)|-|-|
+
+
 ## Upcoming Projects
 | Project No |          Project Name           |  Start Date  |   End Date  |           GitHub          |         Blog          | App Link |
 |:-----------|:--------------------------------|:------------:|:-----------:|--------------------------:|----------------------:|---------:|
-| 12.         | Bitcoin Price Predictor  | 05-Oct-2020  | Present |-||-||-|
-| 13.         | Uber Data Analysis | 015-Oct-2020  | Present |-||-||-|
+| 10.         | Digit Recognition System  | 05-Nov-2020  | Present |-||-||-|
+| 11.         | Image Classification with CIFAR-10 dataset | 10-Nov-2020  | Present |-||-||-|
 
 
-## Technical Aspects
-Since we can deploy atmost 5 app in Heroku as a free service, I came up with a new idea of deploying all my projects in a single web app and controlling the each projects navigation with Flask and Python.
 
-Some extra-ordinary features that I have included in my app :
-- Visualizing Probability of classifcation in each classification type problems.
-- Added all the details about the projects such as data source, code source, libraries and frameworks used in each project's description.
-- All my end to end projects in a single view.
 
 ## Installation
 To run my app on your local machine, do the following steps.
@@ -65,21 +63,21 @@ To run my app on your local machine, do the following steps.
 > **Step 2** :
    - If you want the current version of my repository to be in your github, you can do forking my repository by clicking as shown in the picture below.
    
-   [![Alt Text](Images/git.PNG)](https://github.com/Nivitus/Machine-Learning-Projects)
+   [![Alt Text](Images/git.PNG)](https://github.com/Nivitus/Deep-Learning-Projects)
 
    
    - Clone my repository to your local machine by running the following command. Before doing this, you have to install git on your machine and make sure you are having proper internet connection.
       - For **Windows OS** user, open *git bash* and run the following command.
       ```bash
-      git clone https://github.com/Nivitus/Machine-Learning-Projects.git
+      git clone https://github.com/Nivitus/Deep-Learning-Projects.git
       ```
       
       - For **Linus OS** user, open *Terminal* and run the following command.
       ```bash
-      git clone https://github.com/Nivitus/Machine-Learning-Projects.git
+      git clone https://github.com/Nivitus/Deep-Learning-Projects.git
       ```
    
-   - If you don't want to mess up with all these things, you can just download the *zip* file of my GitHub repository by clicking [here](https://github.com/Nivitus/Machine-Learning-Projects/archive/master.zip) and extract it to any file location as your wish and then use it.
+   - If you don't want to mess up with all these things, you can just download the *zip* file of my GitHub repository by clicking [here](https://github.com/Nivitus/Deep-Learning-Projects/archive/master.zip) and extract it to any file location as your wish and then use it.
    - Now we have done with the downloading of my whole project.
 
 > **Step 3** :
@@ -113,27 +111,25 @@ To run my app on your local machine, do the following steps.
 
 ## Deployment on Heroku
 - After successfully running my app on your local machine, you can also deploy my app on heroku by following the steps given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python). You have to do it on your own risk.
-- In case, if you have any issues on deploying the app, please open a new issue by clicking [here](https://github.com/Nivitus/Machine-Learning-Projects/issues/new/choose). Because it may help others while deploying.
+- In case, if you have any issues on deploying the app, please open a new issue by clicking [here](https://github.com/Nivitus/Deep-Learning-Projects/issues/new/choose). Because it may help others while deploying.
 
 ## Directory Tree
 
 
 ```bash
-Machine-Learning-Projects
-├── 01.Iris Flower Classification
-├── 02.Car Price Prediction
-├── 03.Diabetes Prediction
-├── 04.Flight Price Prediction
-├── 05.Heart Diseases Prediction
-├── 06.Boston House Price Prediction
-├── 07.IPL Score Prediction
-├── 08.Mobile Price Prediction
-├── 09.Loan Prediction
-├── 10.Beer Consumptio Prediction
-
+Deep-Learning-Projects
+├── 01.Cat or Dog
+├── 02.Car Brand Classification
+├── 03.Cotton Leaf Diseases Detection
+├── 04.Customer Churn using ANN
+├── 05.Fake News Classifier using LSTM RNN
+├── 06.MNIST Fashion
+├── 07.Malaria Detection using CNN
+├── 08.Object Detection
+├── 09.Stock Price Prediction Using LSTM RNN
 
 ├── data
-│   ├── ML_Projects.csv
+│   ├── DL_Projects.csv
 │   └── social-media-links.csv
 ├── Demos
 ├── models
@@ -145,19 +141,6 @@ Machine-Learning-Projects
 │   ├── files
 │   ├── images
 │   └── js
-├── templates
-│   ├── index.html
-│   ├── indexx.html
-│   ├── Iris Flower Classification.html	
-│   ├── Car Price Prediction
-│   ├── Diabetes Prediction	
-│   ├── Flight Price Prediction	
-│   ├── Heart Diseases Prediction	
-│   ├── Boston House Price Prediction	
-│   ├── IPL Score Prediction	
-│   ├── Mobile Price Prediction	
-│   ├── Loan Prediction	
-│   ├── Beer Consumptio Prediction	
 ├── LICENSE.txt
 ├── runtime.txt
 └── README.md
@@ -176,9 +159,9 @@ These features will be added in the future :
 
 ## Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/Nivitus/Machine-Learning-Projects/issues/new) by including your search query and the expected result.
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/Nivitus/Deep-Learning-Projects/issues/new) by including your search query and the expected result.
 
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/Nivitus/Machine-Learning-Projects/issues/new/choose). Please include sample queries and their corresponding results.
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/Nivitus/Deep-Learning-Projects/issues/new/choose). Please include sample queries and their corresponding results.
 
 ## Technologies Used
 
@@ -208,7 +191,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
    limitations under the License.
 
 ## Credits
-1. Kaggle - I have collected dataset from kaggle for some of the projects such as Loan Status Prediction, Iris Species Classification, Boston House Price Prediction, etc..,
+1. Kaggle - I have collected dataset from kaggle for some of the projects such as Malaria Detection, Cotton Disease detection,  etc..,
 2. Krish Naik -  I have Learned many of the concepts & ideas from his Youtube Channel.
 
 
