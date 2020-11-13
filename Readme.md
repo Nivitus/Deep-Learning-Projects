@@ -17,7 +17,7 @@
 - [License](#license)
 - [Credits](#credits)
 ## Demo
-- App Link : <a href="http://nivitus.herokuapp.com/page.html/" target="_blank">Deep Learning Projects</a>
+- App Link : <a href="http://nivitus.herokuapp.com/page.html" target="_blank">Deep Learning Projects</a>
 
 [![Alt Text](Images/1.PNG)](http://nivitus.herokuapp.com/page.html)
 [![Alt Text](Images/2.PNG)](http://nivitus.herokuapp.com/page.html)
