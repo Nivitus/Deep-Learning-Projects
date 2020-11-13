@@ -17,10 +17,10 @@
 - [License](#license)
 - [Credits](#credits)
 ## Demo
-- App Link : <a href="http://nivitus.herokuapp.com/page.html" target="_blank">Deep Learning Projects</a>
+- App Link : <a href="http://nivitus.herokuapp.com/page.html#dlprojects" target="_blank">Deep Learning Projects</a>
 
-[![Alt Text](Images/1.PNG)](http://nivitus.herokuapp.com/page.html)
-[![Alt Text](Images/2.PNG)](http://nivitus.herokuapp.com/page.html)
+[![Alt Text](Images/1.PNG)](http://nivitus.herokuapp.com/page.html#dlprojects)
+[![Alt Text](Images/2.PNG)](http://nivitus.herokuapp.com/page.html#dlprojects)
 
 ## Overview
 In this [repository](https://github.com/Nivitus/Machine-Learning-Projects) consists of various machine learning projects in which each projects was done as end to end projects which means from Data Collection through feature engineering, feature selecion to Deployment and Maintainance. The whole app was built with Flask framework. You can launch my app by clicking <a href="https://nivitus.herokuapp.com/" target="_blank">here</a>.
