@@ -28,16 +28,14 @@ In this [repository](https://github.com/Nivitus/Deep-Learning-Projects) consists
 For building machine learning models, I have used scikit-learn alias sklearn. The model was deployed on Heroku platform which is a platform-as-a-service.
 
 ## Motivation
-While most of the students like me spending their precious time on PUBG, Instead I am very passionate in AI and Data Science.So I decided to spend my precious time on learning to gear up my knowledge and my life. During this lockdown period I have learnt countless things related to Data Science and Machine Learning such as Data Preprocesing, Exploratory Data Analysis using NumPy and Pandas, Feature Engineering, Feature Selection, Feature Scaling, Visualization Techniques using Matplotlib and Seaborn and various Machine Learning Algorithms from scratch along with Hyper Parameter Tuning. Later I want to do some projects for the society with my knowledge. So I have started with some beginner level projects to learn some more data related concepts and techniques and step on to some advanced level projects while progressing.
-
-I always love to share my knowledge with my friends and helps on solving their coding related problems with my best and they also help me on learning new things and keeps motivating me. Though it is a small range of community, I want to share my knowledge to everyone. Whenever I wants relaxation, I write blogs to stay relevant. You can see all my blogs by clicking <a href="https://medium.com/@Nivitus." target="_blank">here</a>.
+When I finsihed my Machine Learning Stuffs I got some confused about Machine Learning is enough for getting AI or Data Science Jobs. At the time I was heard about Deep learning is most import for build super AI projects. As well as when I was searched about Deep learning a google came up with wondrefull inspration for me. As well I'm so intrested to working Self-Driving cars and Computer Vision problems. So i decided to learn Deep Learning from scratch like maths to code..
 
 ## Projects Done
 Here I have listed all the projects that I have done and strats from latest projects.
 
 | Project No |          Project Name           |  Start Date  |   End Date  |           GitHub          |         Blog          | App Link |
 |:-----------|:--------------------------------|:------------:|:-----------:|--------------------------:|----------------------:|---------:|
-| 1.         | Iris Flower Classification | 10-Jul-2020  | 11-Jul-2020 |[Iris Flower Classification](https://github.com/Nivitus/Machine-Learning-Projects/tree/master/1.Iris%20Flowers%20Classification)|[Iris Flower Classification](https://medium.com/@Nivitus./iris-flower-classification-machine-learning-d4e337140fa4)|-|
+| 1.         | Cat or Dog Classification in CNN | 10-Oct-2020  | 15-Oct-2020 |[Cat or Dog](https://github.com/Nivitus/Deep-Learning-Projects/tree/master/Cat%20or%20Dog)|-|-|
 | 2.         | Car Price Prediction | 01-Jul-2020  | 07-Jul-2020 |[Car Price Prediction](https://github.com/Nivitus/Machine-Learning-Projects/tree/master/Car%20Price%20Prediction)|[Car Price Prediction](https://medium.com/@Nivitus./car-price-prediction-using-machine-learning-6d7678cdbf94)|[Click](https://carspred.herokuapp.com/)|
 | 3.         | Diabetes Prediction | 27-Jun-2020  | 30-Jun-2020 |[Diabetes Prediction](https://github.com/Nivitus/Machine-Learning-Projects/tree/master/Diabetes%20Prediction)|-|[Click](https://diabetpred.herokuapp.com/)|
 | 4.         | Flight Price Prediction | 18-Aug-2020  | 31-Aug-2020 |[Flight Price Prediction](https://github.com/Nivitus/Machine-Learning-Projects/tree/master/Flight%20Price%20Prediction)|-|[Click](https://flightfare7.herokuapp.com/)|
