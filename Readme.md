@@ -36,17 +36,12 @@ Here I have listed all the projects that I have done and strats from latest proj
 | Project No |          Project Name           |  Start Date  |   End Date  |           GitHub          |         Blog          | App Link |
 |:-----------|:--------------------------------|:------------:|:-----------:|--------------------------:|----------------------:|---------:|
 | 1.         | Cat or Dog Classification in CNN | 10-Oct-2020  | 15-Oct-2020 |[Cat or Dog](https://github.com/Nivitus/Deep-Learning-Projects/tree/master/Cat%20or%20Dog)|-|-|
-| 2.         | Car Price Prediction | 01-Jul-2020  | 07-Jul-2020 |[Car Price Prediction](https://github.com/Nivitus/Machine-Learning-Projects/tree/master/Car%20Price%20Prediction)|[Car Price Prediction](https://medium.com/@Nivitus./car-price-prediction-using-machine-learning-6d7678cdbf94)|[Click](https://carspred.herokuapp.com/)|
-| 3.         | Diabetes Prediction | 27-Jun-2020  | 30-Jun-2020 |[Diabetes Prediction](https://github.com/Nivitus/Machine-Learning-Projects/tree/master/Diabetes%20Prediction)|-|[Click](https://diabetpred.herokuapp.com/)|
-| 4.         | Flight Price Prediction | 18-Aug-2020  | 31-Aug-2020 |[Flight Price Prediction](https://github.com/Nivitus/Machine-Learning-Projects/tree/master/Flight%20Price%20Prediction)|-|[Click](https://flightfare7.herokuapp.com/)|
-| 5.         | Heart Diseases Prediction | 1-Sep-2020  | 3-Sep-2020 |[Heart Diseases Prediction](https://github.com/Nivitus/Machine-Learning-Projects/tree/master/Heart%20Diseases%20Prediction)|-|[Click](https://heartdiseapreds.herokuapp.com/)|
-| 6.         | Boston House Price Prediction | 7-Sep-2020  | 11-Sep-2020 |[Boston House Price Prediction](https://github.com/Nivitus/Machine-Learning-Projects/tree/master/House%20Price%20Prediction)|[Boston House Price Prediction](https://medium.com/analytics-vidhya/boston-house-price-prediction-using-machine-learning-ad3750a866cd)|-|
-| 7.         | IPL Score Prediction | 14-Sep-2020  | 16-Sep-2020 |[IPL Score Prediction](https://github.com/Nivitus/Machine-Learning-Projects/tree/master/IPL%20Cricket%20Score%20Prediction)|-|[Click](https://iplcrickpred.herokuapp.com/)|
-| 8.         | Mobile Price Prediction | 21-Sep-2020  | 23-Sep-2020 |[Mobile Price Prediction](https://github.com/Nivitus/Machine-Learning-Projects/tree/master/Loan%20Price%20Prediction)|[Mobile Price Prediction](https://medium.com/@Nivitus./mobile-price-prediction-using-machine-learning-fa9cab6fb242)|-|
-| 9.         | Loan Prediction | 27-Sep-2020  | 30-Sep-2020 |[Loan Prediction](https://github.com/Nivitus/Machine-Learning-Projects/tree/master/Loan%20Price%20Prediction)|[Mobile Price Prediction](https://medium.com/@Nivitus./loan-price-prediction-using-machine-learning-b585aafa3e7)|-|
-| 10.         | Beer Consumptio Prediction | 1-Oct-2020  | 2-Oct-2020 |[Beer Consumptio Prediction](https://github.com/Nivitus/Machine-Learning-Projects/tree/master/Beer%20Consumption%20Prediction)|-|-|
-| 11.         | Employee Salary Prediction | 1-Feb-2020  | 4-Feb-2020 |[Employee Salary Prediction](https://github.com/Nivitus/Employee_Salary_Prediction)|-|[Click](https://mysalpre.herokuapp.com/)|
-
+| 1.         | Cat or Dog Classification in CNN | 10-Oct-2020  | 15-Oct-2020 |[Cat or Dog](https://github.com/Nivitus/Deep-Learning-Projects/tree/master/Cat%20or%20Dog)|-|-|
+| 1.         | Cat or Dog Classification in CNN | 10-Oct-2020  | 15-Oct-2020 |[Cat or Dog](https://github.com/Nivitus/Deep-Learning-Projects/tree/master/Cat%20or%20Dog)|-|-|
+| 1.         | Cat or Dog Classification in CNN | 10-Oct-2020  | 15-Oct-2020 |[Cat or Dog](https://github.com/Nivitus/Deep-Learning-Projects/tree/master/Cat%20or%20Dog)|-|-|
+| 1.         | Cat or Dog Classification in CNN | 10-Oct-2020  | 15-Oct-2020 |[Cat or Dog](https://github.com/Nivitus/Deep-Learning-Projects/tree/master/Cat%20or%20Dog)|-|-|
+| 1.         | Cat or Dog Classification in CNN | 10-Oct-2020  | 15-Oct-2020 |[Cat or Dog](https://github.com/Nivitus/Deep-Learning-Projects/tree/master/Cat%20or%20Dog)|-|-|
+| 1.         | Cat or Dog Classification in CNN | 10-Oct-2020  | 15-Oct-2020 |[Cat or Dog](https://github.com/Nivitus/Deep-Learning-Projects/tree/master/Cat%20or%20Dog)|-|-|
 ## Upcoming Projects
 | Project No |          Project Name           |  Start Date  |   End Date  |           GitHub          |         Blog          | App Link |
 |:-----------|:--------------------------------|:------------:|:-----------:|--------------------------:|----------------------:|---------:|
