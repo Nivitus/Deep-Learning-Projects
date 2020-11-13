@@ -23,7 +23,7 @@
 [![Alt Text](Images/2.PNG)](http://nivitus.herokuapp.com/page.html#dlprojects)
 
 ## Overview
-In this [repository](https://github.com/Nivitus/Machine-Learning-Projects) consists of various machine learning projects in which each projects was done as end to end projects which means from Data Collection through feature engineering, feature selecion to Deployment and Maintainance. The whole app was built with Flask framework. You can launch my app by clicking <a href="https://nivitus.herokuapp.com/" target="_blank">here</a>.
+In this [repository](https://github.com/Nivitus/Deep-Learning-Projects) consists of various Deep learning projects in which each projects was done. But deploying part will bw in future. Over here all Deep learning projects from Data Collection through feature engineering, feature selecion to Deployment and Maintainance. The whole app was built with Flask framework. You can launch my app by clicking <a href="https://nivitus.herokuapp.com/page.html#dlprojects" target="_blank">here</a>.
 
 For building machine learning models, I have used scikit-learn alias sklearn. The model was deployed on Heroku platform which is a platform-as-a-service.
 
