@@ -165,7 +165,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## Technologies Used
 
-![](Images/all.PNG)  
+![](Images/pp.PNG)  ![](Images/xx.png) 
 
 
 
